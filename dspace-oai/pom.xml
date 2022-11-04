@@ -10,7 +10,7 @@
         <groupId>org.dspace</groupId>
         <version>7.5-SNAPSHOT</version>
         <relativePath>..</relativePath>
-    </parent>
+    </parent>ds
 
     <properties>
         <!-- This is the path to the root [dspace-src] directory. -->
